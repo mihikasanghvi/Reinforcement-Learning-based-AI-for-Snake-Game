@@ -16,3 +16,7 @@ We plan to use the Q-learning algorithm which is used in reinforcement learning 
 ![WhatsApp Image 2024-07-17 at 6 20 48 PM](https://github.com/user-attachments/assets/d68ea687-bce8-43a9-bff1-75f3e0013017)
 ![WhatsApp Image 2024-07-17 at 6 20 48 PM (1)](https://github.com/user-attachments/assets/9e4fae29-2266-471f-8740-77b03f043ae4)
 
+# AUTHORS
+1) Mihika Sanghvi
+2) Mihika Dravid
+
